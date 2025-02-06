@@ -25,6 +25,6 @@ Este proyecto permite:
 4️⃣ Haz clic en **"Sortear amigo"** para seleccionar un ganador.  
 
 ## 👨‍💻 Autor  
-📌 **[Mirian]([https://github.com/TU_USUARIO](https://github.com/mirianosoriov/amigo-secreto.git])**  
+📌 **[Mirian] 
 
 
