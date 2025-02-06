@@ -10,7 +10,7 @@ Este proyecto permite:
 
 ## 🖼️ Vista Previa  
 📌 ## 🖼️ Vista Previa  
-![Captura del Proyecto](assets/Captura-Amigo-Secreto.png) 
+![Captura del Proyecto](assets/Captura-Amigo-Secreto.jpg) 
 
 ## 🛠️ Tecnologías Utilizadas  
 - **HTML5**  
