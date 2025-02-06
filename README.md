@@ -9,11 +9,12 @@ Este proyecto permite:
 ✅ Mostrar el nombre del ganador en pantalla.  
 
 ## 🖼️ Vista Previa  
-📌 **Aquí se mostrará una imagen del proyecto más adelante.**  
+📌 ## 🖼️ Vista Previa  
+![Captura del Proyecto](assets/Captura-Amigo-Secreto.png) 
 
 ## 🛠️ Tecnologías Utilizadas  
 - **HTML5**  
-- **CSS3**  
+- **CSS**  
 - **JavaScript**  
 
 
@@ -24,6 +25,6 @@ Este proyecto permite:
 4️⃣ Haz clic en **"Sortear amigo"** para seleccionar un ganador.  
 
 ## 👨‍💻 Autor  
-📌 **[Mirian]([https://github.com/TU_USUARIO](https://github.com/mirianosoriov/amigo-secreto.git)**  
+📌 **[Mirian]([https://github.com/TU_USUARIO](https://github.com/mirianosoriov/amigo-secreto.git])**  
 
 
