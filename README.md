@@ -10,7 +10,7 @@ Este proyecto permite:
 
 ## 🖼️ Vista Previa  
 📌 ## 🖼️ Vista Previa  
-![Captura del Proyecto](assets/Captura-Amigo-Secreto.jpg) 
+![Captura del Proyecto](https://github.com/mirianosoriov/amigo-secreto/blob/main/Captura-Amigo-Secreto.jpg) 
 
 ## 🛠️ Tecnologías Utilizadas  
 - **HTML5**  
