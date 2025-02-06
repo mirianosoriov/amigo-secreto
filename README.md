@@ -7,13 +7,12 @@ Este proyecto permite:
 ✅ Agregar nombres a una lista.  
 ✅ Sortear un amigo secreto al presionar el botón.  
 ✅ Mostrar el nombre del ganador en pantalla.  
-
+ 
 ## 🖼️ Vista Previa  
-📌 ## 🖼️ Vista Previa  
 ![Captura del Proyecto](https://github.com/mirianosoriov/amigo-secreto/blob/main/Captura-Amigo-Secreto.jpg) 
 
 ## 🛠️ Tecnologías Utilizadas  
-- **HTML5**  
+- **HTML**  
 - **CSS**  
 - **JavaScript**  
 
